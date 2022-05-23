@@ -12,3 +12,6 @@
 #### Expense date
 #### Expense category
 ![Capture d’écran (13)](https://user-images.githubusercontent.com/93977173/169675774-ccdd935f-1f0d-448a-b5e4-399991b6ce56.png)
+## Authors
+Mahamat Hamid
+Jules Decaestecker
